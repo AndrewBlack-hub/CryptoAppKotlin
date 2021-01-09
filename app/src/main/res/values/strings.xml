@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CryptoAppKotlin</string>
+    <string name="crypto_logo">Логотип криптовалюты</string>
+    <string name="symbols_template">%s / %s</string>
+    <string name="last_update_template">Время последнего обновления: %s</string>
+    <string name="price_label">Цена:</string>
+    <string name="low_day_price_label">Минимум за день:</string>
+    <string name="high_day_price_label">Максимум за день:</string>
+    <string name="last_trade_label">Последняя сделка:</string>
+    <string name="update_label">Обновлено:</string>
+    <string name="slash">/</string>
+</resources>
